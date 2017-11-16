@@ -35,3 +35,9 @@ cobbler4j/target
 
 # Testrun output
 test.log
+
+# IDE/Editor
+.idea/
+
+# tmp
+tmp/
